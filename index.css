@@ -91,7 +91,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("/Banner1.jpg");
+    ,url("Banner1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -324,21 +324,21 @@ footer h4{
 }
 
 footer .whatsappvector{
-    background-image: url(/Whatsapp-white-logo.webp);
+    background-image: url(Whatsapp-white-logo.webp);
     background-position: 0 0;
     background-size: 1.6rem 1.6rem;
     background-repeat: no-repeat;
 }
 
 footer .correovector{
-    background-image: url(/correo-spotlight.webp);
+    background-image: url(correo-spotlight.webp);
     background-position: 0 0;
     background-size: 1.6rem 1.6rem;
     background-repeat: no-repeat;
 }
 
 footer .ubicacionvector{
-    background-image: url(/ubicacion-vector.webp);
+    background-image: url(ubicacion-vector.webp);
     background-position: 0 0;
     background-size: 1.6rem 1.6rem;
     background-repeat: no-repeat;
